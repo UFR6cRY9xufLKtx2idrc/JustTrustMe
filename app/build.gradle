@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion '35.0.0'
+    buildToolsVersion '34.0.5'
     defaultConfig {
         applicationId 'just.trust.me'
         minSdkVersion 16
